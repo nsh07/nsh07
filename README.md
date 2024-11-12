@@ -6,7 +6,7 @@ I've written a variety of programs in multiple languages over my years as a hobb
 
 ### Languages
 
-![Kotlin](https://img.shields.io/badge/kotlin-1a1a1a?style=for-the-badge&logo=kotlin) ![Java](https://img.shields.io/badge/Java-1a1a1a?style=for-the-badge&logo=openjdk) ![Python](https://img.shields.io/badge/python-1a1a1a?style=for-the-badge&logo=python)  ![C++](https://img.shields.io/badge/C++-1a1a1a?style=for-the-badge&logo=cplusplus) ![Bash](https://img.shields.io/badge/Bash-1a1a1a?style=for-the-badge&logo=gnubash) ![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3)
+![Kotlin](https://img.shields.io/badge/kotlin-1a1a1a?style=for-the-badge&logo=kotlin) ![Java](https://img.shields.io/badge/Java-1a1a1a?style=for-the-badge&logo=openjdk) ![Python](https://img.shields.io/badge/python-1a1a1a?style=for-the-badge&logo=python) ![C](https://img.shields.io/badge/C-1a1a1a?style=for-the-badge&logo=c) ![C++](https://img.shields.io/badge/C++-1a1a1a?style=for-the-badge&logo=cplusplus) ![Bash](https://img.shields.io/badge/Bash-1a1a1a?style=for-the-badge&logo=gnubash) ![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3)
 
 ### Technologies
 
