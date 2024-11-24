@@ -1,5 +1,7 @@
 ### About me
 
+<img align="right" width="33%" src="512px.png">
+
 Hi, I'm Nishant. I'm currently a hobbyist software developer and a computer science student at the Indian Institute of Information Technology Bhagalpur.
 
 I've written a variety of programs in multiple languages over my years as a hobbyist developer since back when I was in middle and high school (~2019) in Python and C++, spanning multiple areas like games, CLI tools, GUI tools and automation scripts. I'm continuing to work towards persuing my passion of software development as my career, now as a CS student.
