@@ -16,6 +16,10 @@ I've written a variety of programs in multiple languages over my years as a hobb
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-1a1a1a?style=for-the-badge&logo=androidstudio) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-1a1a1a?style=for-the-badge) ![PyCharm](https://img.shields.io/badge/PyCharm-1a1a1a?style=for-the-badge&logo=pycharm) ![Fedora Linux](https://img.shields.io/badge/Fedora%20Linux-1a1a1a?style=for-the-badge&logo=fedora) ![Ubuntu Linux](https://img.shields.io/badge/Ubuntu%20Linux-1a1a1a?style=for-the-badge&logo=ubuntu) ![Debian](https://img.shields.io/badge/Debian-1a1a1a?style=for-the-badge&logo=debian) ![Arch](https://img.shields.io/badge/Arch-1a1a1a?style=for-the-badge&logo=archlinux)
 
+### Other skills
+
+![GIMP](https://img.shields.io/badge/GIMP-1a1a1a?style=for-the-badge&logo=GIMP) ![Inkscape](https://img.shields.io/badge/Inkscape-1a1a1a?style=for-the-badge&logo=Inkscape)
+
 ### Stats
 
 [![Nishant's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nsh07&show_icons=true&theme=dark&bg_color=1a1a1a#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Nishant's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nsh07&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) 
