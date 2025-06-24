@@ -8,21 +8,21 @@ I've written a variety of programs in multiple languages over my years as a hobb
 
 ### Languages
 
-![Languages-Light](https://go-skill-icons.vercel.app/api/icons?i=kotlin,java,python,c,cpp,bash,html,css&theme=light#gh-light-mode-only)
-![Languages-Dark](https://go-skill-icons.vercel.app/api/icons?i=kotlin,java,python,c,cpp,bash,html,css&theme=dark#gh-dark-mode-only)
+[![Languages](https://go-skill-icons.vercel.app/api/icons?i=kotlin,java,python,c,cpp,bash,html,css&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
+[![Languages](https://go-skill-icons.vercel.app/api/icons?i=kotlin,java,python,c,cpp,bash,html,css&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
 
 ### Technologies
 
-![Technologies-light](https://go-skill-icons.vercel.app/api/icons?i=android,gradle,cmake,qt,linux,git,github,gitlab&theme=light#gh-light-mode-only)
-![Technologies-dark](https://go-skill-icons.vercel.app/api/icons?i=android,gradle,cmake,qt,linux,git,github,gitlab&theme=dark#gh-dark-mode-only)
+[![Technologies](https://go-skill-icons.vercel.app/api/icons?i=android,gradle,cmake,qt,linux,git,github,gitlab&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
+[![Technologies](https://go-skill-icons.vercel.app/api/icons?i=android,gradle,cmake,qt,linux,git,github,gitlab&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
 
-![Tools-light](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,vscode,pycharm,fedora,ubuntu,debian,arch&theme=light#gh-light-mode-only)
-![Tools-dark](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,vscode,pycharm,fedora,ubuntu,debian,arch&theme=dark#gh-dark-mode-only)
+[![Tools](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,vscode,pycharm,fedora,ubuntu,debian,arch&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
+[![Tools](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,vscode,pycharm,fedora,ubuntu,debian,arch&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
 
 ### Other skills
 
-![Other skills-light](https://go-skill-icons.vercel.app/api/icons?i=gimp,inkscape&theme=light#gh-light-mode-only)
-![Other skills-dark](https://go-skill-icons.vercel.app/api/icons?i=gimp,inkscape&theme=dark#gh-dark-mode-only)
+[![Other skills](https://go-skill-icons.vercel.app/api/icons?i=gimp,inkscape&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
+[![Other skills](https://go-skill-icons.vercel.app/api/icons?i=gimp,inkscape&theme=light#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
 
 ### Stats
 
