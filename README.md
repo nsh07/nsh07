@@ -22,7 +22,7 @@ I've written a variety of programs in multiple languages over my years as a hobb
 ### Other skills
 
 [![Other skills](https://go-skill-icons.vercel.app/api/icons?i=gimp,inkscape&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
-[![Other skills](https://go-skill-icons.vercel.app/api/icons?i=gimp,inkscape&theme=light#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+[![Other skills](https://go-skill-icons.vercel.app/api/icons?i=gimp,inkscape&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
 
 ### Stats
 
