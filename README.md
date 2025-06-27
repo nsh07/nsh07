@@ -16,8 +16,8 @@ I've written a variety of programs in multiple languages over my years as a hobb
 [![Technologies](https://go-skill-icons.vercel.app/api/icons?i=android,gradle,cmake,qt,linux,git,github,gitlab&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
 [![Technologies](https://go-skill-icons.vercel.app/api/icons?i=android,gradle,cmake,qt,linux,git,github,gitlab&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
 
-[![Tools](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,vscode,pycharm,fedora,ubuntu,debian,arch&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
-[![Tools](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,vscode,pycharm,fedora,ubuntu,debian,arch&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+[![Tools](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,vscode,pycharm,webstorm,fedora,ubuntu,debian,arch&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
+[![Tools](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,vscode,pycharm,webstorm,fedora,ubuntu,debian,arch&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
 
 ### Other skills
 
