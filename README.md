@@ -1,4 +1,4 @@
-### About me
+<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/0c66523a-3337-4a35-bf18-b5a7c61c28f6" />### About me
 
 <img align="right" width="33%" src="512px.png">
 
@@ -23,7 +23,13 @@ I've written a variety of programs in multiple languages over my years as a hobb
 
 ### Stats
 
-[![Nishant's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nsh07&show_icons=true&theme=dark&bg_color=1a1a1a#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Nishant's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nsh07&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) 
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=nsh07&layout=compact&theme=dark&bg_color=1a1a1a#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=nsh07&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<div align="center">
+
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=nsh07&layout=donut&theme=dark&bg_color=0d1117&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=nsh07&layout=donut&theme=default&bg_color=ffffff&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Nishant's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nsh07&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Nishant's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nsh07&show_icons=true&theme=default&bg_color=ffffff&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) 
+
+[![GitHub Streak-dark](https://streak-stats.demolab.com?user=nsh07&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only) [![GitHub Streak-light](https://streak-stats.demolab.com?user=nsh07&theme=github&hide_border=true&date_format=j%20M%5B%20Y%5D#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
 
 [![Nishant's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nsh07&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
