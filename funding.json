@@ -1,0 +1,177 @@
+{
+    "version": "v1.0.0",
+
+    "entity": {
+        "type": "individual",
+        "role": "owner",
+        "name": "Nishant Mishra",
+        "email": "nishant.28@outlook.com",
+        "description": "I am a student and I have been doing FOSS development and contributing to open source since I was 14. I'm currently doing a CS degree and do FOSS development as a hobby. I have a deep interest in developing Android apps and I write open source code as a way to give back to the open source world what it has given to me all along my programming journey. And also because I love writing code ;)\n\nI would really appreciate any financial support from the open source community.",
+        "webpageUrl": {
+            "url": "https://github.com/nsh07"
+        }
+    },
+
+    "projects": [
+    {
+        "guid": "wikireader",
+        "name": "WikiReader",
+        "description": "Android app for reading Wikipedia pages distraction-free, with a Material 3 Expressive UI",
+        "webpageUrl": {
+            "url": "https://github.com/nsh07/wikireader"
+        },
+        "repositoryUrl": {
+            "url": "https://github.com/nsh07/wikireader"
+        },
+        "licenses": ["spdx:GPL-3.0"],
+        "tags": ["reading", "android", "wikipedia", "material-3-expressive"]
+    },
+    {
+        "guid": "tomato",
+        "name": "Tomato",
+        "description": "Minimalist Pomodoro timer for Android based on Material 3 Expressive",
+        "webpageUrl": {
+            "url": "https://github.com/nsh07/tomato"
+        },
+        "repositoryUrl": {
+            "url": "https://github.com/nsh07/tomato"
+        },
+        "licenses": ["spdx:GPL-3.0"],
+        "tags": ["timer", "android", "productivity", "pomodoro", "material-3", "material-3-expressive"]
+    }
+    ],
+
+    "funding": {
+        "channels": [
+        {
+            "guid": "bank-account",
+            "type": "bank",
+            "address": "",
+            "description": "Will accept direct bank transfers. Please e-mail me for details."
+        },
+        {
+            "guid": "bank-upi",
+            "type": "other",
+            "address": "",
+            "description": "Will accept transfers via UPI (for people in India). Please e-mail me for details."
+        },
+        {
+            "guid": "github-sponsors",
+            "type": "payment-provider",
+            "address": "https://github.com/sponsors/nsh07",
+            "description": "GitHub Sponsors page. Donors will be listed publicly and a GitHub account is required."
+        },
+        {
+            "guid": "buy-me-a-coffee",
+            "type": "payment-provider",
+            "address": "https://coff.ee/nsh07",
+            "description": "Buy Me A Coffee page. No account is required, allows anonymous donations."
+        }
+        ],
+
+        "plans": [
+        {
+            "guid": "1-dollar-monthly",
+            "status": "active",
+            "name": "$1 per month",
+            "description": "- Show support for my work ❤️\n- Get your name in further update changelogs (ignored for anonymous donations)",
+            "amount": 1,
+            "currency": "USD",
+            "frequency": "monthly",
+            "channels": ["bank-account", "bank-upi", "github-sponsors", "buy-me-a-coffee"]
+        },
+        {
+            "guid": "5-dollar-monthly",
+            "status": "active",
+            "name": "$5 per month",
+            "description": "- Get your profile picture in further update changelogs (ignored for anonymous donations)\n- Get the ability to prioritize one (1) planned feature or suggest a new one",
+            "amount": 5,
+            "currency": "USD",
+            "frequency": "monthly",
+            "channels": ["bank-account", "bank-upi", "github-sponsors", "buy-me-a-coffee"]
+        },
+        {
+            "guid": "10-dollar-monthly",
+            "status": "active",
+            "name": "$10 per month",
+            "description": "- Get your name and profile picture in further update changelogs (ignored for anonymous donations)\n- Get your profile picture in the repository README (ignored for anonymous donations)\n- Get the ability to prioritize two (2) planned features or suggest new ones",
+            "amount": 10,
+            "currency": "USD",
+            "frequency": "monthly",
+            "channels": ["bank-account", "bank-upi", "github-sponsors", "buy-me-a-coffee"]
+        },
+        {
+            "guid": "15-dollar-monthly",
+            "status": "active",
+            "name": "$15 per month",
+            "description": "- Get your name and profile picture in further update changelogs (ignored for anonymous donations)\n- Get your name and profile picture in the repository README (ignored for anonymous donations)\n- Get the ability to prioritize four (4) planned features or suggest new ones",
+            "amount": 15,
+            "currency": "USD",
+            "frequency": "monthly",
+            "channels": ["bank-account", "bank-upi", "github-sponsors", "buy-me-a-coffee"]
+        },
+        
+        {
+            "guid": "1-dollar-one-time",
+            "status": "active",
+            "name": "$1 one-time",
+            "description": "- Show support for my work ❤️\n- Get your name in the next update changelog (ignored for anonymous donations)",
+            "amount": 1,
+            "currency": "USD",
+            "frequency": "one-time",
+            "channels": ["bank-account", "bank-upi", "github-sponsors", "buy-me-a-coffee"]
+        },
+        {
+            "guid": "5-dollar-one-time",
+            "status": "active",
+            "name": "$5 one-time",
+            "description": "- Get your profile picture in the next update changelog (ignored for anonymous donations)",
+            "amount": 5,
+            "currency": "USD",
+            "frequency": "one-time",
+            "channels": ["bank-account", "bank-upi", "github-sponsors", "buy-me-a-coffee"]
+        },
+        {
+            "guid": "10-dollar-one-time",
+            "status": "active",
+            "name": "$10 one-time",
+            "description": "Get your name and profile picture in the next update changelog (ignored for anonymous donations)",
+            "amount": 10,
+            "currency": "USD",
+            "frequency": "one-time",
+            "channels": ["bank-account", "bank-upi", "github-sponsors", "buy-me-a-coffee"]
+        },
+        {
+            "guid": "15-dollar-one-time",
+            "status": "active",
+            "name": "$15 one-time",
+            "description": "Get your name and profile picture in the next update release, and your name mentioned in the README (ignored for anonymous donations)",
+            "amount": 15,
+            "currency": "USD",
+            "frequency": "one-time",
+            "channels": ["bank-account", "bank-upi", "github-sponsors", "buy-me-a-coffee"]
+        },
+        
+        {
+            "guid": "any-amount-monthly",
+            "status": "active",
+            "name": "Any amount (monthly)",
+            "description": "Get the rewards corresponding to the highest monthly tier not exceeding the donation amount",
+            "amount": 0,
+            "currency": "USD",
+            "frequency": "monthly",
+            "channels": ["bank-account", "bank-upi", "github-sponsors", "buy-me-a-coffee"]
+        },
+        {
+            "guid": "any-amount-one-time",
+            "status": "active",
+            "name": "Any amount (one-time)",
+            "description": "Get the rewards corresponding to the highest one-time tier not exceeding the donation amount",
+            "amount": 0,
+            "currency": "USD",
+            "frequency": "one-time",
+            "channels": ["bank-account", "bank-upi", "github-sponsors", "buy-me-a-coffee"]
+        }
+        ]
+    }
+}
