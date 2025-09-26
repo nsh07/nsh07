@@ -30,6 +30,4 @@ I've written a variety of programs in multiple languages over my years as a hobb
 
 [![GitHub Streak-dark](https://streak-stats.demolab.com?user=nsh07&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only) [![GitHub Streak-light](https://streak-stats.demolab.com?user=nsh07&theme=github&hide_border=true&date_format=j%20M%5B%20Y%5D#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
 
-[![Nishant's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nsh07&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </div>
