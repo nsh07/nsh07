@@ -4,7 +4,7 @@
 
 Hi, I'm Nishant. I'm currently a hobbyist software developer and a computer science student at the Indian Institute of Information Technology Bhagalpur.
 
-I've written a variety of programs in multiple languages over my years as a hobbyist developer since back when I was in middle and high school (~2019) in Python and C++, spanning multiple areas like games, CLI tools, GUI tools and automation scripts. I'm continuing to work towards persuing my passion of software development as my career, now as a CS student.
+I love writingI've written a variety of programs as a hobbyist developer since back when I was in middle and high school in Python and C++, spanning multiple areas like games, CLI tools, GUI tools and automation scripts. I'm continuing to work towards persuing my passion of software development as my career, now as a CS student.
 
 ### Languages
 
@@ -25,8 +25,7 @@ I've written a variety of programs in multiple languages over my years as a hobb
 
 <div align="center">
 
-[![Nishant's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nsh07&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Nishant's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nsh07&show_icons=true&theme=default&bg_color=ffffff&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) 
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=nsh07&layout=donut&theme=dark&bg_color=0d1117&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=nsh07&layout=donut&theme=default&bg_color=ffffff&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Nishant's GitHub stats-Dark](https://github-readme-stats-nsh07.vercel.app/api?username=nsh07&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Nishant's GitHub stats-Light](https://github-readme-stats-nsh07.vercel.app/api?username=nsh07&show_icons=true&theme=default&bg_color=ffffff&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) 
 
 [![GitHub Streak-dark](https://github-readme-streak-stats-nsh07.vercel.app?user=nsh07&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only) [![GitHub Streak-light](https://github-readme-streak-stats-nsh07.vercel.app?user=nsh07&theme=github&hide_border=true&date_format=j%20M%5B%20Y%5D#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
 
