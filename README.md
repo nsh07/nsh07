@@ -4,7 +4,7 @@
 
 Hi, I'm Nishant. I'm currently a hobbyist software developer and a computer science student at the Indian Institute of Information Technology Bhagalpur.
 
-I love writingI've written a variety of programs as a hobbyist developer since back when I was in middle and high school in Python and C++, spanning multiple areas like games, CLI tools, GUI tools and automation scripts. I'm continuing to work towards persuing my passion of software development as my career, now as a CS student.
+I've written a variety of programs as a hobbyist developer since back when I was in middle and high school in Python and C++, spanning multiple areas like games, CLI tools, GUI tools and automation scripts. I'm continuing to work towards persuing my passion of software development as my career, now as a CS student. Right now, I primarily enjoy making Android apps with Kotlin in my free time.
 
 ### Languages
 
