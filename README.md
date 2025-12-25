@@ -13,8 +13,8 @@ I've written a variety of programs as a hobbyist developer since back when I was
 
 ### Technologies
 
-[![Technologies](https://go-skill-icons.vercel.app/api/icons?i=android,gradle,cmake,qt,sqlite,linux,git,github&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
-[![Technologies](https://go-skill-icons.vercel.app/api/icons?i=android,gradle,cmake,qt,sqlite,linux,git,github&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+[![Technologies](https://go-skill-icons.vercel.app/api/icons?i=android,gradle,jetpackcompose,cmake,sqlite,linux,git,github&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
+[![Technologies](https://go-skill-icons.vercel.app/api/icons?i=android,gradle,jetpackcompose,cmake,sqlite,linux,git,github&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
 
 ### Other skills (not programming related)
 
