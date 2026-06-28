@@ -8,13 +8,13 @@ I've written a variety of programs as a hobbyist developer since back when I was
 
 ### Languages
 
-[![Languages](https://go-skill-icons.vercel.app/api/icons?i=kotlin,java,python,c,cpp,bash,html&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
-[![Languages](https://go-skill-icons.vercel.app/api/icons?i=kotlin,java,python,c,cpp,bash,html&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+[![Languages](https://go-skill-icons.vercel.app/api/icons?i=kotlin,swift,java,python,c,cpp,bash,html&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
+[![Languages](https://go-skill-icons.vercel.app/api/icons?i=kotlin,swift,java,python,c,cpp,bash,html&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
 
 ### Technologies
 
-[![Technologies](https://go-skill-icons.vercel.app/api/icons?i=android,gradle,jetpackcompose,cmake,sqlite,linux,git,github&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
-[![Technologies](https://go-skill-icons.vercel.app/api/icons?i=android,gradle,jetpackcompose,cmake,sqlite,linux,git,github&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+[![Technologies](https://go-skill-icons.vercel.app/api/icons?i=android,apple,gradle,jetpackcompose,cmake,sqlite,linux,git,github&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
+[![Technologies](https://go-skill-icons.vercel.app/api/icons?i=android,apple,gradle,jetpackcompose,cmake,sqlite,linux,git,github&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
 
 ### Other skills (not programming related)
 
